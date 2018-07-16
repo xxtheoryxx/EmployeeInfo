@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Employee Info</string>
+    <string name="tl">Title</string>
+    <string name="nm">Name</string>
+    <string name="salary">0.0</string>
+</resources>
